@@ -1,0 +1,2 @@
+Digits,Method,Error
+1,Karatsuba multiplication,'<' not supported between instances of 'str' and 'int'
